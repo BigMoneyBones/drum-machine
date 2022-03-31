@@ -70,3 +70,7 @@ body {
     transform-origin: bottom center;
     animation: tick 1200ms ease-in-out infinite;
 }
+
+.checkBoxes {
+    background-color: rgba(255, 138, 60, 0.685);
+}
